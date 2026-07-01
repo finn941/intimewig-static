@@ -38,7 +38,7 @@ Analyze spend, impressions, clicks, conversions, campaign trends, and return met
 Footer/contact:
 
 ```text
-For privacy questions, app access, or data deletion requests, contact che-che1dalubzrd124@hotmail.com.
+For privacy questions, app access, or data deletion requests, contact info@intimewig.com.
 ```
 
 ## Privacy Policy Page
@@ -70,7 +70,7 @@ Effective date: June 29, 2026
 This Privacy Policy explains how the operator of intimewig.com uses data in connection with the Meta app named fullc11. The app is used for marketing operations, including creating ads, managing advertising accounts, and analyzing advertising performance.
 
 Who We Are
-The operator of intimewig.com maintains this website and the Meta developer app fullc11. For privacy questions, contact che-che1dalubzrd124@hotmail.com.
+The operator of intimewig.com maintains this website and the Meta developer app fullc11. For privacy questions, contact info@intimewig.com.
 
 What Data We Process
 Depending on the permissions approved by Meta and the assets you connect, the app may process:
@@ -94,7 +94,7 @@ Storage and Retention
 We retain operational data only for as long as needed to provide the app, maintain advertising records, comply with legal obligations, resolve disputes, and improve marketing operations. Access tokens and connected asset permissions are revoked or deleted when access is no longer needed or when you request deletion. Aggregated or de-identified reporting data may be retained when it no longer identifies a person or connected account.
 
 Data Deletion Instructions
-To request deletion of data connected to the fullc11 app, email che-che1dalubzrd124@hotmail.com with the subject Data Deletion Request - fullc11. Include the Meta Business ID, ad account ID, Page ID, or email address associated with the request so we can locate the relevant records.
+To request deletion of data connected to the fullc11 app, email info@intimewig.com with the subject Data Deletion Request - fullc11. Include the Meta Business ID, ad account ID, Page ID, or email address associated with the request so we can locate the relevant records.
 
 After verifying the request, we will delete or de-identify eligible data and revoke app access where applicable. We aim to respond within 30 days unless a shorter period is required by applicable law.
 
@@ -139,7 +139,7 @@ Effective date: June 29, 2026
 These instructions apply to the Meta developer app fullc11, operated for marketing operations on intimewig.com.
 
 How to Request Deletion
-Email che-che1dalubzrd124@hotmail.com with the subject Data Deletion Request - fullc11. Include any available Meta Business ID, ad account ID, Page ID, or email address associated with the request so we can locate the relevant records.
+Email info@intimewig.com with the subject Data Deletion Request - fullc11. Include any available Meta Business ID, ad account ID, Page ID, or email address associated with the request so we can locate the relevant records.
 
 What We Will Delete
 After verifying the request, we will delete or de-identify eligible data connected to the fullc11 app, including connected account metadata, operational records, reports, and access records where deletion is permitted. We will also revoke app access where applicable.
@@ -198,7 +198,7 @@ Availability
 The app may be updated, suspended, limited, or discontinued at any time for maintenance, security, compliance, platform policy changes, or operational reasons.
 
 Contact
-For questions about these terms, contact che-che1dalubzrd124@hotmail.com.
+For questions about these terms, contact info@intimewig.com.
 ```
 
 ## Meta App Settings
